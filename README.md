@@ -4,7 +4,7 @@
 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-![git stats](https://github-readme-stats.vercel.app/api?username=TechifyBots\&show_icons=true\&theme=default#gh-light-mode-only)
+
 
 
 <p align="center">
