@@ -34,13 +34,13 @@
 
 ## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/Donate)
 
-![DONATE](https://envs.sh/b6o.jpg)
+![DONATE](https://envs.sh/JlT.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
 <p align="center">
-<a href="https://www.instagram.com/RahulReviewsYT"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.me/TechifyBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@RahulReviews"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/TechifyRahul"><img alt="replit" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://www.telegram.me/TechifyBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@TechifyBots"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 <br>
 <p align="center">
