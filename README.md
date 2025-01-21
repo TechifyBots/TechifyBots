@@ -7,23 +7,9 @@
 
 ![git stats](https://github-readme-stats.vercel.app/api?username=TechifyBots\&show_icons=true\&theme=default#gh-light-mode-only)
 
-
-<p align="center">
-  <a href="https://github.com/TechifyBots">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=red&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-
-
-
-
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&tc=323&ic=323)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots\&layout=donut)
-
-
-
-
 
 
 ## ➪ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦
