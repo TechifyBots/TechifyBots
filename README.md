@@ -20,7 +20,7 @@
 
 ## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/Donate)
 
-![DONATE](https://envs.sh/JlT.jpg)
+![DONATE](https://envs.sh/yU.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
