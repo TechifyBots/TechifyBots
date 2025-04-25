@@ -18,9 +18,9 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 ![](https://github-profile-trophy.vercel.app/?username=TechifyBots)
 
-## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/Donate)
+## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/PayWeb)
 
-![DONATE](https://envs.sh/yU.jpg)
+![DONATE](https://envs.sh/RjZ.jpg)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
