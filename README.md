@@ -3,7 +3,6 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
-![git stats](https://github-readme-stats.vercel.app/api?username=TechifyBots\&show_icons=true\&theme=default#gh-light-mode-only)
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&tc=323&ic=323)
 
