@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TechifyBots&label=Profile%20views&color=0e75b6&style=flat" alt="TechifyBots" /> </p>
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&count_public=true&tc=323&ic=323)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&count_public=true&include_all_commits=true&tc=323&ic=323)
 
 ![TechifyBots's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechifyBots&show_icons=true&include_all_commits=true)
 
