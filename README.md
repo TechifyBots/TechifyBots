@@ -12,7 +12,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=chartreuse" alt="mystreak"/>
 
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=TechifyBots&count_public=true&theme=react&border_radius=10" alt="streak stats"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TechifyBots&count_public=true&theme=chartreuse" alt="streak stats"/>
 
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=TechifyBots&count_public=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
