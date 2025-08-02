@@ -4,15 +4,11 @@
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TechifyBots" alt="Profile views"/>
-</p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TechifyBots&label=Profile%20views&color=0e75b6&style=flat" alt="TechifyBots" /> </p>
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&tc=323&ic=323)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots\&layout=donut)
-
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=chartreuse" alt="mystreak"/>
 
