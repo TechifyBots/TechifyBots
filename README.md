@@ -5,8 +5,9 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TechifyBots&color=blue" alt="watching_count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TechifyBots" alt="Profile views"/>
 </p>
+
 
 ![Github Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&tc=323&ic=323)
 
