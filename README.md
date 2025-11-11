@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&count_public=true&tc=323&ic=323)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TechifyBots&count_public=true&theme=chartreuse" alt="streak stats"/>
+<img align="center" src="https://streak-stats.demolab.com?user=TechifyBots&count_public=true&theme=chartreuse" alt="streak stats"/>
 
 ![TechifyBots's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechifyBots&show_icons=true&include_all_commits=true)
 
