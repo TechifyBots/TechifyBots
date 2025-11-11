@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&count_public=true&tc=323&ic=323)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TechifyBots&show_icons=true&theme=chartreuse-light)
+https://github-readme-stats.vercel.app/api?username=TechifyBots&show_icons=true&theme=chartreuse-light
 
 ![TechifyBots's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechifyBots&show_icons=true&include_all_commits=true)
 
