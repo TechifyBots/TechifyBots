@@ -19,7 +19,7 @@
 
 ## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/PayWeb)
 
-![DONATE](https://i.ibb.co/nsVjFSkJ/photo-2025-07-26-04-49-40-7531335250727665680.jpg)
+![DONATE](https://i.ibb.co/Kj1BXbj1/QR.png)
 
 <h3><i>𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 :-</i></h3>
 </p>
