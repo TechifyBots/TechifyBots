@@ -13,9 +13,9 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/TechifyBots?cardType=github&theme=vue&preferLogin=true" />
-<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechifyBots&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
 
 
