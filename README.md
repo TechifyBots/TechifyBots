@@ -13,7 +13,8 @@
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/TechifyBots?cardType=github&theme=vue&preferLogin=true" />
-<img src="https://streak-stats.demolab.com?user=TechifyBots&theme=vue-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
 
 ## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/PayWeb)
 
