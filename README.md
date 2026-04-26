@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/TechifyBots?cardType=github&theme=vue&preferLogin=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=TechifyBots&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=58a6ff&ring_color=00f7f7"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=dark&hide_border=true&background=0d1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
