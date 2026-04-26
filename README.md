@@ -9,7 +9,7 @@
 
 
 ## ➪ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/TechifyBots?cardType=github&theme=vue&preferLogin=true" />
