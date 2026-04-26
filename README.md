@@ -16,8 +16,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=58a6ff&dates=c9d1d9" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechifyBots&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechifyBots&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=58a6ff&point=ff6b6b&area=true&area_color=00f7f7" />
 
 
 ## ➪ [𝗗𝗢𝗡𝗔𝗧𝗘](https://TechifyBots.github.io/PayWeb)
