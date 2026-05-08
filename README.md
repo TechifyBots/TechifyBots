@@ -6,15 +6,6 @@
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=TechifyBots&count_public=true&tc=323&ic=323)
 
-## ➪ 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦 & 𝗧𝗢𝗢𝗟𝗦
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechifyBots&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
-
-## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
-<img src="https://github-readme-stats.vercel.app/api?username=TechifyBots&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9&icon_color=58a6ff&ring_color=00f7f7"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TechifyBots&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=58a6ff&dates=c9d1d9" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechifyBots&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=58a6ff&point=ff6b6b&area=true&area_color=00f7f7" />
 
 ## 📈 Contribution Stack
 
