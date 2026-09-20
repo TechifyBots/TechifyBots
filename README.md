@@ -146,7 +146,7 @@ Here are some anime that inspire me deeply:
 
 <div align="center">
 
-*Explore my **APIs, Telegram Bots, Automation Tools & Open Source Projects.** 🚀*
+*Explore my **APIs, Telegram Bots, Automation Tools & Open Source Projects.***
 
 <a href="https://github.com/TechifyBots">
 <img src="https://github-widgetbox.vercel.app/api/profile?username=TechifyBots&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox" />
