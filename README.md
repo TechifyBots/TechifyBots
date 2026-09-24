@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/TechifyBots?label=FOLLOWERS&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/TechifyBots?label=STARS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/TechifyBots?label=FOLLOWERS&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/TechifyBots?label=STARS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-TechifyBots-06b6d4?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TechifyBots.vercel.app)
 </div>
 
