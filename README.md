@@ -164,4 +164,4 @@ Here are some anime that inspire me deeply:
 </a>
 <br/>
 
-[![Profile last updated](https://img.shields.io/github/last-commit/TechifyBots/TechifyBots/main?label=Last%20Updated&style=flat&logo=github&logoColor=white&color=7C3AED)](https://github.com/TechifyBots) [![Profile Views](https://komarev.com/ghpvc/?username=TechifyBots&label=Profile%20Views&color=blue&style=flat)](https://github.com/TechifyBots)
+[![Profile last updated](https://img.shields.io/github/last-commit/TechifyBots/TechifyBots/main?label=Last%20Updated&style=flat&logo=github&logoColor=white&color=7C3AED)](https://github.com/TechifyBots) [![Profile Views](https://komarev.com/ghpvc/?username=TechifyBots&color=blue&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TechifyBots)
