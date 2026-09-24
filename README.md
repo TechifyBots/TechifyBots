@@ -3,9 +3,11 @@
 <img src="https://bannerrender.vercel.app/api?type=waving&height=300&color=gradient&text=𝗧𝗲𝗰𝗵𝗶𝗳𝘆%20𝗕𝗼𝘁𝘀&fontAlignY=35&fontSize=80&desc=𝗔𝗻𝗶𝗺𝗲%20𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁%20|%20𝗙𝘂𝗹𝗹%20𝗦𝘁𝗮𝗰𝗸%20𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿%20|%20𝗢𝗽𝗲𝗻%20𝗦𝗼𝘂𝗿𝗰𝗲%20𝗖𝗿𝗲𝗮𝘁𝗼𝗿&descAlignY=60"/>
 
 <img src="https://i.ibb.co/0Vp76SwH/Techify-Bots.gif"/>
+
 <br/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/TechifyBots?label=FOLLOWERS&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=followers) [![GitHub Stars](https://img.shields.io/github/stars/TechifyBots?label=STARS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=repositories)
+[![GitHub Followers](https://img.shields.io/github/followers/TechifyBots?label=FOLLOWERS&style=for-the-badge&color=0A66C2&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/TechifyBots?label=STARS&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/TechifyBots?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-TechifyBots-06b6d4?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://TechifyBots.vercel.app)
 </div>
 
