@@ -168,6 +168,7 @@ Here are some anime that inspire me deeply:
 </picture>
 </a>
 <br/>
+<br/>
 
 [![Last Updated](https://img.shields.io/github/last-commit/TechifyBots/TechifyBots/main?label=LAST%20UPDATED&style=for-the-badge&logo=github&logoColor=white&color=0A66C2)](https://github.com/TechifyBots) [![Profile Views](https://komarev.com/ghpvc/?username=TechifyBots&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TechifyBots)
 
@@ -179,6 +180,8 @@ Here are some anime that inspire me deeply:
     <b>Automation Tools</b>, and contributing to <b>Open Source Projects</b>.
   </i>
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/TechifyBots/TechifyBots/main/assets/footer.svg" width="600" alt="footer"/>
