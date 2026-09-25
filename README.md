@@ -171,7 +171,8 @@ Here are some anime that inspire me deeply:
 
 [![Last Updated](https://img.shields.io/github/last-commit/TechifyBots/TechifyBots/main?label=LAST%20UPDATED&style=for-the-badge&logo=github&logoColor=white&color=0A66C2)](https://github.com/TechifyBots) [![Profile Views](https://komarev.com/ghpvc/?username=TechifyBots&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/TechifyBots)
 
-#### <p align="center">🚀 Always Building
+### 🚀 Always Building
+<p align="center">
   <i>
     Always exploring new ideas, building useful <b>Telegram Bots, APIs, Automation Tools</b>, and contributing to <b>Open Source Projects</b>.
   </i>
