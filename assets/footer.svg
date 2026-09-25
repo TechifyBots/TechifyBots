@@ -1,0 +1,137 @@
+<svg width="1000" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Minimalist circuit divider — animated: draw-in traces, traveling data pulses, pinging vias -->
+  <defs>
+    <style>
+      .sketch {
+        fill: none;
+        stroke: #1a1a1a;
+        stroke-width: 2.5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      .node {
+        fill: #ffffff;
+        stroke: #1a1a1a;
+        stroke-width: 2.5;
+      }
+      .sketch-light {
+        fill: none;
+        stroke: #1a1a1a;
+        stroke-width: 1.5;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      .node-light {
+        fill: #ffffff;
+        stroke: #1a1a1a;
+        stroke-width: 1.5;
+      }
+      /* Dark-mode (GitHub): near-black strokes vanish on dark
+         backgrounds, so switch to a light stroke. */
+      @media (prefers-color-scheme: dark) {
+        .sketch, .sketch-light { stroke: #e5e5e5; }
+        .node, .node-light { fill: #0d1117; stroke: #e5e5e5; }
+        circle[fill="#1a1a1a"] { fill: #e5e5e5; }
+      }
+    </style>
+  </defs>
+
+  <g transform="translate(0, 50)">
+    <!-- Main trace (draws in on load) -->
+    <path id="ftr-trace" class="sketch" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 50,0 L 250,0 L 270,-15 L 350,-15 L 370,0 L 600,0 L 630,20 L 700,20 L 720,0 L 950,0">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" dur="1.6s" fill="freeze"/>
+    </path>
+    <!-- Invisible return path for the violet pulse -->
+    <path id="ftr-trace-rev" d="M 950,0 L 720,0 L 700,20 L 630,20 L 600,0 L 370,0 L 350,-15 L 270,-15 L 250,0 L 50,0" fill="none" stroke="none"/>
+
+    <!-- Traveling data pulses (cyan forward, violet return) -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.08;0.5;0.92;1" dur="5s" repeatCount="indefinite"/>
+      <animateMotion dur="5s" repeatCount="indefinite">
+        <mpath href="#ftr-trace" xlink:href="#ftr-trace"/>
+      </animateMotion>
+      <circle r="7" fill="#06b6d4" opacity="0.15"/>
+      <circle r="3" fill="#06b6d4" opacity="0.9"/>
+      <circle r="1.3" fill="#ffffff"/>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.08;0.5;0.92;1" dur="7s" repeatCount="indefinite"/>
+      <animateMotion dur="7s" repeatCount="indefinite">
+        <mpath href="#ftr-trace-rev" xlink:href="#ftr-trace-rev"/>
+      </animateMotion>
+      <circle r="6" fill="#7c3aed" opacity="0.15"/>
+      <circle r="2.5" fill="#7c3aed" opacity="0.9"/>
+      <circle r="1.1" fill="#ffffff"/>
+    </g>
+    
+    <!-- Branch traces (draw in, staggered) -->
+    <path class="sketch" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 300,-15 L 320,-35 L 380,-35">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0.4s" dur="1s" fill="freeze"/>
+    </path>
+    <path class="sketch" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 660,20 L 680,40 L 750,40">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="0.7s" dur="1s" fill="freeze"/>
+    </path>
+    
+    <!-- Nodes (vias) -->
+    <!-- Start and End Points (gently breathing + sonar ping) -->
+    <circle class="node" cx="50" cy="0" r="4">
+      <animate attributeName="r" values="4;5.2;4" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="node" cx="950" cy="0" r="4">
+      <animate attributeName="r" values="4;5.2;4" begin="1.3s" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50" cy="0" r="4" fill="none" stroke="#06b6d4" stroke-width="1.5" opacity="0">
+      <animate attributeName="r" values="4;15" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="0" r="4" fill="none" stroke="#7c3aed" stroke-width="1.5" opacity="0">
+      <animate attributeName="r" values="4;15" begin="1.3s" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0" begin="1.3s" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Branch Ends -->
+    <circle class="node" cx="380" cy="-35" r="3">
+      <animate attributeName="r" values="3;4;3" begin="0.6s" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle class="node" cx="750" cy="40" r="3">
+      <animate attributeName="r" values="3;4;3" begin="1.9s" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- Inner trace lines for tech feel (draw in late) -->
+    <path class="sketch-light" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 100,10 L 240,10 L 260,-5">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="1s" dur="0.8s" fill="freeze"/>
+    </path>
+    <circle class="node-light" cx="260" cy="-5" r="2.5" />
+    
+    <path class="sketch-light" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 800,-10 L 900,-10 L 920,10">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="1.2s" dur="0.8s" fill="freeze"/>
+    </path>
+    <circle class="node-light" cx="920" cy="10" r="2.5" />
+    
+    <!-- Extra details -->
+    <!-- Some parallel lines -->
+    <path class="sketch-light" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 400,15 L 420,15 L 430,25">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="1.3s" dur="0.7s" fill="freeze"/>
+    </path>
+    <circle class="node-light" cx="430" cy="25" r="2" />
+    
+    <path class="sketch-light" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M 500,-20 L 520,-20 L 530,-10">
+      <animate attributeName="stroke-dashoffset" from="1" to="0" begin="1.5s" dur="0.7s" fill="freeze"/>
+    </path>
+    <circle class="node-light" cx="530" cy="-10" r="2" />
+  </g>
+  
+  <!-- Background specks (gently twinkling) -->
+  <circle fill="#1a1a1a" cx="150" cy="25" r="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.12;0.6" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle fill="#1a1a1a" cx="450" cy="80" r="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.12;0.6" begin="0.9s" dur="3.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle fill="#1a1a1a" cx="580" cy="15" r="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.12;0.6" begin="1.7s" dur="4.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle fill="#1a1a1a" cx="850" cy="75" r="1.5" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.12;0.6" begin="0.4s" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
